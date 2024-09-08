@@ -79,5 +79,9 @@ $ snforge test
 
 -   5 - Deploy your contract
 -   ![Deploy your contract](docs/img/HM3_KeyFile.png)
+
 -   6 - Contract tests by interface web
 -   ![Contract tests by interface web](docs/img/Sample_Site_Staknet_BaseCamp.png)
+
+-   7 - Added Read Total Supply tests by interface web
+-   ![Contract Read Total Supply tests by interface web](<docs/img/Sample_Site_Staknet_BaseCamp(add_total_supply).png>)
