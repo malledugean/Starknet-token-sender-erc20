@@ -39,6 +39,9 @@ This project implements an ERC-20 token named USD Magic (USDM) on the Starknet b
 
 ### Security:
 
+-   Sepolia contract at: 0x0232889b389b9495be13daf615861780c16194a47ceb592b71c62769452e505c
+-   Mainnet contract at: 0x01ffaf17ab9bf435c5973b892916465530c7deb98f7f335819fe9d0a083a9670
+
 WARNING: This Tokes is currently under tests at Sepolia at following address.
 The official token address will be included here! Only use the oficial references!
 
