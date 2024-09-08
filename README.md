@@ -27,6 +27,7 @@
 -   [License](#licensed)
 -   [Usage](#usage)
 -   [Version](#usage)
+-   [Actions](#actions)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -61,3 +62,22 @@ This project is licensed under the Apache License (Apache-2.0). See the LICENSE 
 $ scarb build
 $ snforge test
 ```
+
+## Actions log<a name = "action"></a>
+
+-   1 - Key file preparation
+-   ![Account file preparation](docs/img/HM3_KeyFile.png)
+
+-   2 - Account preparation
+-   ![Account preparation](docs/img/HM3_AccFile.png)
+
+-   3 - Deploy Account
+-   ![Deploy Account](docs/img/HM3_AccDeploy.png)
+
+-   4 - Declare your contract
+-   ![Declare your contract ](docs/img/HM3_ContractDeployDeclare.png)
+
+-   5 - Deploy your contract
+-   ![Deploy your contract](docs/img/HM3_KeyFile.png)
+-   6 - Contract tests by interface web
+-   ![Contract tests by interface web](docs/img/Sample_Site_Staknet_BaseCamp.png)
